@@ -1,4 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://ausaf123:ausaf123@devconnector-vmigd.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "stopstealingthetoken"
+  "mongoURI": "mongodb+srv://ausaf123:ausaf123@devconnector-vmigd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "stopstealingthetoken",
+  "githubClientId": "d4ae1970be269f2f4df7",
+  "githubSecret": "d910b79fbce2a05581bff72a910ff7efd7162376"
 }
